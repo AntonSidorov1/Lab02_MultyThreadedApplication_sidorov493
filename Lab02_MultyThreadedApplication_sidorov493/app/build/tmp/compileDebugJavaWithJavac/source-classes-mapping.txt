@@ -1,0 +1,8 @@
+com/example/lab02_multythreadedapplication_sidorov493/MainActivity.java
+ com.example.lab02_multythreadedapplication_sidorov493.MainActivity
+ com.example.lab02_multythreadedapplication_sidorov493.MainActivity$1
+ com.example.lab02_multythreadedapplication_sidorov493.MainActivity$2
+ com.example.lab02_multythreadedapplication_sidorov493.MainActivity$3
+ com.example.lab02_multythreadedapplication_sidorov493.MainActivity$4
+com/example/lab02_multythreadedapplication_sidorov493/BuildConfig.java
+ com.example.lab02_multythreadedapplication_sidorov493.BuildConfig

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "F:\\MobileApp\\ForWidows\\Lab02_MultyThreadedApplication_sidorov493\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]

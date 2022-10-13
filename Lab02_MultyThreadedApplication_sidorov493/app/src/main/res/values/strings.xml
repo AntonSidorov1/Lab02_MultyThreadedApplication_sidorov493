@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab02_MultyThreadedApplication_sidorov493</string>
+    <string name="ConvolutionKernel">Ядро свёртки</string>
+    <string name="Value">Значение</string>
+    <string name="Value1">Значение:</string>
+    <string name="_0">0</string>
+    <string name="_3">3</string>
+    <string name="Restore">Восстановить</string>
+</resources>
